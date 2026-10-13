@@ -2,9 +2,9 @@
 
 PhD researcher in Electrical and Electronic Engineering (EEE) at the University of Nottingham Ningbo China.
 
-## Research
+## AI Research
 
-I am currently working on **GUVP**, a project studying visual pollution in urban street-view imagery. GUVP uses pairwise image comparisons to rank scenes by perceived visual pollution, combining Q-score and TrueSkill with vision-language model evaluation. The evaluation workflow uses evidence-based scoring and swapped image positions to help reduce A/B position bias.
+My research develops AI methods for measuring visual pollution in urban street scenes. In the **GUVP** project, I combine vision-language models for calibrated pairwise image evaluation, semantic segmentation with DeepLabV3+ on Mapillary Vistas v2, and regression analysis of semantic scene features against visual-pollution scores. I am also interested in exploring a Vision Transformer (ViT) as a more efficient future alternative to repeated multi-pass VLM inference.
 
-- Project repository: [GUVP Pairwise Ranking](https://github.com/Colin-Nobody/GUVP_pairwise_ranking)
-- Personal website: [Chongliang Wang](https://colin-nobody.github.io/)
+- [Academic homepage](https://colin-nobody.github.io/)
+- [GUVP project repository](https://github.com/Colin-Nobody/GUVP_pairwise_ranking)
